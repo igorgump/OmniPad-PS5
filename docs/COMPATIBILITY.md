@@ -38,7 +38,14 @@ All peripherals in this table connect directly to any USB-A or USB-C port on the
 
 ### 🏎️ Thrustmaster T598 (wheel as a controller)
 
-Tested on a real T598 with *Star Wars: Galactic Racer*, which has no native wheel support. The layout was taken from the wheel's own HID descriptor and a live capture (input report `0x07`, 64 bytes).
+Lets the T598 drive games that have no native wheel support. The layout was taken from the wheel's own HID descriptor and a live capture (input report `0x07`, 64 bytes).
+
+**Tested games (real T598 on PS5):**
+
+| Game | Platform | Result |
+|---|---|---|
+| *Star Wars: Galactic Racer* | PS5 native | ✅ Works |
+| *Need for Speed: Underground 2* | PS2 via PS5SX2 emulator | ✅ Works |
 
 | T598 control | DualSense input |
 |---|---|
