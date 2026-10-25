@@ -6,6 +6,15 @@
 [![Language](https://img.shields.io/badge/Language-C99%20%2F%20POSIX-f59e0b?style=for-the-badge&logo=c&logoColor=white)](src/)
 [![License](https://img.shields.io/badge/License-GPL%20v3.0-blue?style=for-the-badge)](LICENSE)
 
+> ### 🏎️ About this fork
+> This is a fork of **[OmniPad-PS5](https://github.com/diegobarbosaa/OmniPad-PS5)** by **[@diegobarbosaa](https://github.com/diegobarbosaa)**. About **99% of this project is his work**. All credit for the engine, the virtual DualSense and the FW 13.60 support goes to him.
+>
+> **My 1%:** support for the **Thrustmaster T598** wheel, so it works as a controller in games without wheel support (tested on PS5 with *Star Wars: Galactic Racer*). The base must be in **PC mode**. Details: [docs/COMPATIBILITY.md](docs/COMPATIBILITY.md#%EF%B8%8F-thrustmaster-t598-wheel-as-a-controller).
+>
+> These changes were also sent to the official project in [pull request #23](https://github.com/diegobarbosaa/OmniPad-PS5/pull/23). For everything else, use and support the [official project](https://github.com/diegobarbosaa/OmniPad-PS5).
+>
+> **Download:** the ready-to-load `.elf` with T598 support is on the [Releases page](https://github.com/igorgump/OmniPad-PS5/releases).
+
 > ### ⚖️ Legal Disclaimer & Fair Use Notice
 > This is an independent open-source research project developed strictly for **educational, accessibility, and hardware interoperability purposes** (allowing third-party controllers and adaptive peripherals to function on the console).
 > 
