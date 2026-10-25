@@ -42,10 +42,19 @@ Lets the T598 drive games that have no native wheel support. The layout was take
 
 **Tested games (real T598 on PS5):**
 
-| Game | Platform | Result |
+| Game | Platform | Result | Setup |
+|---|---|---|---|
+| *Star Wars: Galactic Racer* | PS5 native | ✅ Works | None |
+| *Need for Speed: Underground 2* | PS2 via PS5SX2 emulator | ✅ Works | Remap buttons in PS5SX2 (see below) |
+
+**NFS Underground 2 in PS5SX2:** the game accelerates with Cross and brakes with Square, so remap the controls in PS5SX2's controller settings to match the wheel:
+
+| PS2 game button | Set to | On the T598 |
 |---|---|---|
-| *Star Wars: Galactic Racer* | PS5 native | ✅ Works |
-| *Need for Speed: Underground 2* | PS2 via PS5SX2 emulator | ✅ Works |
+| Cross (accelerate) | R2 | Gas pedal |
+| Square (brake) | L2 | Brake pedal |
+| L2 (gear shift) | L1 | Left paddle |
+| R2 (gear shift) | R1 | Right paddle |
 
 | T598 control | DualSense input |
 |---|---|
